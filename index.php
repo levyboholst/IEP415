@@ -10,8 +10,8 @@ Student Name: Levielyn O. Boholst
 <a href="http://iep415.infinityfreeapp.com/add.php">Add two variables</a>
 <br>
 <h2>Exercise 2: MySQL Database Exercise Outputs</h1>
-<a href="http://iep415.infinityfreeapp.com/connect.php" target = "_blank">A. Connection to MySQL Database</a><br>
-<a href="http://iep415.infinityfreeapp.com/display.php" target = "_blank">B. Display my database data</a>
+<a href="http://learn2codelevy.infinityfreeapp.com/connect.php" target = "_blank">A. Connection to MySQL Database</a><br>
+<a href="http://learn2codelevy.infinityfreeapp.com/display.php" target = "_blank">B. Display my database data</a>
 
 </body>
 </html>
