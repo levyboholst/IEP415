@@ -1,8 +1,8 @@
 <?php
-$servername = "sql309.epizy.com";
-$username = "epiz_32554760";
-$password = "<same as your cpanel password>";
-$dbname = "epiz_32554760_bookstore";
+$servername = "sql108.epizy.com";
+$username = "epiz_32507501";
+$password = "<FtIHNCbufl>";
+$dbname = "epiz_32507501_bookstore";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
