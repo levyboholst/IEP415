@@ -1,7 +1,7 @@
 <?php
 $servername = "sql309.epizy.com";
-$username = "epiz_32554760";
-$password = "<please use your password>";
+$username = "epiz_32507501";
+$password = "<FtIHNCbufl>";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
@@ -13,4 +13,4 @@ if ($conn->connect_error) {
 echo "Connected successfully";
 ?> 
 
-http://iep415.infinityfreeapp.com/phpinfo.php
+http://learn2codelevy.infinityfreeapp.com/connect.php
